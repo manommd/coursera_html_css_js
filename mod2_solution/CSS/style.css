@@ -13,7 +13,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: green;
+	/*background-color: green;*/
 }
 
 h1{
@@ -74,7 +74,7 @@ p{
 	clear: left;
 }
 div#container{
-	background-color: yellow;
+	/*background-color: yellow;*/
 	/*clear: both;*/
 	position: relative;
 }
